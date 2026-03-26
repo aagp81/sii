@@ -1,0 +1,11 @@
+# Dependencias para sistema DTE Chile
+flask==3.0.0
+flask-cors==4.0.0
+lxml==4.9.3
+cryptography==41.0.7
+requests==2.31.0
+zeep==4.2.1  # Para clientes SOAP
+python-dotenv==1.0.0
+pdfkit==1.0.0  # Generación de PDFs
+PyJWT==2.8.0
+gunicorn==21.2.0
